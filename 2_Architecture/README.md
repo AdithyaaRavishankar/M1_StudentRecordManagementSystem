@@ -1,0 +1,18 @@
+# Design
+## High Level Design
+
+### Structural and Behavioural Diagram
+
+#### Usecase behavioural diagram:
+
+
+
+![usecase diagram-1](https://user-images.githubusercontent.com/86227942/160700988-6047fd28-bc29-44b3-b90a-ac8b04e9141f.png)
+
+
+#### Activity Behavioural diagram:
+
+
+
+![Usecase Behaviour diagram for srms ltts](https://user-images.githubusercontent.com/86227942/160701127-b060e8c7-5efd-430c-aa9d-44b11d34ed8c.png)
+
