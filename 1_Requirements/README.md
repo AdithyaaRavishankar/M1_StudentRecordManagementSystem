@@ -102,7 +102,20 @@
 # Detail Requirements
 
 ## High Level Requirements:
+
 |  ID   | Description | Status (Implemented/In Future) |
 | ----- | ----------- | ------------------------------ |
-| HLR 1 |    System output must display the contents of the file. |  Implemented  |
-| HLR 2 | User can Execute sample codes. | Implemented |
+| HLR 1 |    System output must display the contents of the file.   |  Implemented  |
+| HLR 2 |    User can Execute sample codes.   | Implemented |
+| HLR 3 |    Student's ID is asked to display details.   | Implemented |
+| HLR 4 |    User shall be able to write their own code and execute.  | In Future |
+| HLR 5 |    User shall be able to access a learning leader board.   | In Future |
+| HLR 6 |    Login and Password Authentication system.    |  In Future |
+
+## Low Level Requirements:
+
+|  ID   | Description | Status (Implemented/ In Future) |
+| ----- | ----------- | ------------------------------- |
+| LLR 1 |    User shall be able to read the text files.  |  Implemented  |
+| LLR 2 |    user should be able to login | In Future |
+| LLR 3 |    user should be able to manage their data | In Future |
