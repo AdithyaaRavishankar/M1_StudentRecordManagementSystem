@@ -2,8 +2,8 @@
 ## High Level Design
 
 ### Structural and Behavioural Diagram
-
-#### Usecase behavioural diagram:
+#### Behavioural Diagrams
+ ##### Usecase behavioural diagram:
 
 
 
