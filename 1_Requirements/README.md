@@ -57,7 +57,8 @@
 * For the suggestion part it takes suggestion from user and stores it in a file.
 * The below image represents the above said informations.
 
-![system definition for ltts](https://user-images.githubusercontent.com/86227942/160671122-18d17e4c-fee4-40d8-a809-91aae824c873.png)
+![usecase diagram-1](https://user-images.githubusercontent.com/86227942/160700230-90ae153b-9e5c-4428-a7f7-d7801b681160.png)
+
 
 
 # The 4W's and a H 
