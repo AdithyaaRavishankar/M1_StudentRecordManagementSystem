@@ -2,8 +2,10 @@
 ## High Level Design
 
 ### Structural and Behavioural Diagram
-#### Behavioural Diagrams
- ##### Usecase behavioural diagram:
+
+ #### Behavioural Diagrams
+ 
+  ##### Usecase behavioural diagram:
 
 
 
@@ -16,3 +18,14 @@
 
 ![Usecase Behaviour diagram for srms ltts](https://user-images.githubusercontent.com/86227942/160701127-b060e8c7-5efd-430c-aa9d-44b11d34ed8c.png)
 
+
+## Structural Diagram 
+
+ ### Component Diagram
+  
+  #### Component structure Diagram
+  
+  
+
+  
+ 
