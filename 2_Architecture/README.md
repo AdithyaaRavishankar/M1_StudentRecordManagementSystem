@@ -1,7 +1,7 @@
 # Design
 ## High Level Design
 
-### Structural and Behavioural Diagram
+### Behavioural and structural Diagrams
 
  #### Behavioural Diagrams
  
