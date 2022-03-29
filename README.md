@@ -12,3 +12,8 @@
 | [3_Implementation]() | All code and documentation |
 | [4_Test_Plan]() | Documents with test plans and procedures  |
 | [5_Images]() | Screen-shots of the working code  |
+
+# Challenges Faced And How Was It Overcome:
+ #### 1.During cpp-check, online resources helped a lot.
+ #### 2.As most of the functions used contains othes function calls in them and required user input         so unit test couldnt properly done in most of the functions.
+ #### 3.over all stack overflow helped a lot in resolving issues during this project.
