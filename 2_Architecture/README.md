@@ -22,9 +22,16 @@
 ## Structural Diagram 
 
  ### Component Diagram
+ 
   
-  #### Component structure Diagram
+  #### Component structure Diagram:
   
+  
+  
+  
+  ![COMPONENT DIAGRAM](https://user-images.githubusercontent.com/86227942/160710410-547908e9-c95f-42fb-a771-35d018891755.png)
+
+
   
 
   
