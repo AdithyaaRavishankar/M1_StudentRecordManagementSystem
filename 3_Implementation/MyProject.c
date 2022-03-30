@@ -94,7 +94,7 @@ void use_pass_field(){
     SetColor(17);
     gotoxy(20,x);printf("USERNAME:- ");
     gotoxy(20,y);printf("PASSWORD:- ");
-    gotoxy(34,x);scanf("%d",use);
+    gotoxy(34,x);scanf("%d",&use);
     gotoxy(34,y);get_password(pass);
 }
 void print_heading(const char st[]){
