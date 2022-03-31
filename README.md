@@ -3,11 +3,14 @@
 ![srms img](https://user-images.githubusercontent.com/86227942/160691999-b2979afc-49af-4fe8-97e4-6d441dd2877b.jpg)
 
 # Badges
-* Codacy - Static Code Analysis
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1bdb7cab90d2476d8e4252c1d81849e8)](https://www.codacy.com/gh/AdithyaaRavishankar/M1_StudentRecordManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdithyaaRavishankar/M1_StudentRecordManagementSystem&amp;utm_campaign=Badge_Grade)
+* Codiga - Code Grade
+![Quality](https://api.codiga.io/project/32314/status/svg)
 
 * Codiga - Static Analysis
 ![Quality](https://api.codiga.io/project/32314/score/svg)
+
+* Codacy - Static Code Analysis
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1bdb7cab90d2476d8e4252c1d81849e8)](https://www.codacy.com/gh/AdithyaaRavishankar/M1_StudentRecordManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdithyaaRavishankar/M1_StudentRecordManagementSystem&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure 
  
