@@ -60,43 +60,6 @@ void window(){
     printf("Student Record Management System");
     SetColor(17);
 }
-void get_password(char* pass)
-{
-    char temp_passP[25];
-    int i=0;
-     while(1)
-    {
-            temp_passP[i]=getch();
-            if(temp_passP[i]==13){break;}
-            else if(temp_passP[i]==8)
-            {
-                if(i!=0) {
-                printf("\b \b");
-                i--;
-                } else {printf("\a");}
-            }
-            else
-            {
-                printf("*");
-                *(pass+i) = temp_passP[i];
-                i++;
-            }
-             *(pass+i)='\0';
-     }
-}
-void use_pass_field(){
-    int x = 15, y = 16;
-    int use;
-    char pass[10];
-    SetColor(10);
-    gotoxy(15,12);printf("The database is password protected.");
-    gotoxy(15,13);printf(" Enter Valid username and password");
-    SetColor(17);
-    gotoxy(20,x);printf("USERNAME:- ");
-    gotoxy(20,y);printf("PASSWORD:- ");
-    gotoxy(34,x);scanf("%d",&use);
-    gotoxy(34,y);get_password(pass);
-}
 void print_heading(const char st[]){
     gotoxy(45,8);printf("SRMS : %s",st);
 }
@@ -252,4 +215,4 @@ int main(){
     window();
     main_window();
     return 0;
-}
+} 
