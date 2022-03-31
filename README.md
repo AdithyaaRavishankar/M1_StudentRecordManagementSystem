@@ -1,5 +1,7 @@
 # Students Records Management System 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f13656b20a45450cb39bb0a10cb44d89)](https://app.codacy.com/gh/AdithyaaRavishankar/M1_StudentRecordManagementSystem?utm_source=github.com&utm_medium=referral&utm_content=AdithyaaRavishankar/M1_StudentRecordManagementSystem&utm_campaign=Badge_Grade_Settings)
+
 ![srms img](https://user-images.githubusercontent.com/86227942/160691999-b2979afc-49af-4fe8-97e4-6d441dd2877b.jpg)
 
 [Code Quality](https://app.codacy.com/organizations/gh/AdithyaaRavishankar/dashboard)
