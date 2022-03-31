@@ -2,7 +2,7 @@
 
 * @file student.h 
 
-* @author AdithyaaRavishankar (E book on C@domain.com)
+* @author AdithyaaRavishankar (Student Record Management System C@domain.com)
 
 * @brief this file contains all the functions and header files that are used in the main c file. 
 
