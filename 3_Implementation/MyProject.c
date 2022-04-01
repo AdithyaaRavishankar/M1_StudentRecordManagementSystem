@@ -1,4 +1,68 @@
-#include "Student_Management.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <string.h>
+#include <ctype.h>
+extern void headMessage(const char *message);
+extern void welcomeMessage();
+//Used macro
+#define MAX_YR  9999
+#define MIN_YR  1900
+#define MAX_SIZE_USER_NAME 30
+#define MAX_SIZE_PASSWORD  20
+#define FILE_NAME  "studentRecordSystem.bin"
+// Macro related to the students info
+#define MAX_FATHER_NAME 50
+#define MAX_STUDENT_NAME 50
+#define MAX_STUDENT_ADDRESS 300
+#define FILE_HEADER_SIZE  sizeof(sFileHeader)
+//structure to store date
+typedef struct
+{
+    int yyyy;
+    int mm;
+    int dd;
+} Date;
+typedef struct
+{
+    char username[MAX_SIZE_USER_NAME];
+    char password[MAX_SIZE_PASSWORD];
+} sFileHeader;
+//Elements of structure
+typedef struct// to call in program
+{
+    unsigned int student_id; // declare the integer data type
+    char fatherName[MAX_FATHER_NAME];// declare the charecter data type
+    char studentName[MAX_STUDENT_NAME];// declare the character data type
+    char studentAddr[MAX_STUDENT_ADDRESS];// declare the character data type
+    Date studentJoiningDate;// declare the integer data type
+} s_StudentInfo;
+extern void menu();
+extern void welcomeMessage();
+//Head message
+void headMessage(const char *message)
+{
+    system("clear");
+    printf("\n\t\t\t---------------------------------------------------------------------------\n");
+    printf("\n\t\t\t\t\tStudent Record Management System Project in C\n");
+    printf("\n\t\t\t----------------------------------------------------------------------------");
+}
+//Display message
+void welcomeMessage()
+{
+    printf("\n\n\n\n\n");
+    printf("\n\t\t\t  **-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**\n");
+    printf("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+    printf("\n\t\t\t        =                  WELCOME                  =");
+    printf("\n\t\t\t        =                    TO                     =");
+    printf("\n\t\t\t        =               STUDENT RECORD              =");
+    printf("\n\t\t\t        =                 MANAGEMENT                =");
+    printf("\n\t\t\t        =                   SYSTEM                  =");
+    printf("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+    printf("\n\t\t\t  **-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**\n");
+    printf("\n\n\n\t\t\t Go ahead enter some key..");
+    getchar();
+}
 //Align the message
 void printMessageCenter(const char* message)
 {
@@ -86,7 +150,7 @@ void addStudentInDataBase()
     do
     {
         char def;
-        printf("\n\t\t\tFather Name  = ");
+        printf("\n\t\t\tFather's Name  = ");
         fflush(stdin);
         scanf("%c",&def);
         fgets(addStudentInfoInDataBase.fatherName,MAX_FATHER_NAME,stdin);
@@ -124,7 +188,7 @@ void addStudentInDataBase()
     do
     {
         //get date year,month and day from user
-        printf("\n\t\t\tEnter date in format (day/month/year): ");
+        printf("\n\t\t\tEnter date in format (dd/mm/yyyy): ");
         scanf("%d/%d/%d",&addStudentInfoInDataBase.studentJoiningDate.dd,&addStudentInfoInDataBase.studentJoiningDate.mm,&addStudentInfoInDataBase.studentJoiningDate.yyyy);
         //check date validity
         status = isValidDate(&addStudentInfoInDataBase.studentJoiningDate);
@@ -286,7 +350,7 @@ void menu()
         printf("\n\t\t\t3.View Student");
         printf("\n\t\t\t4.Delete Student");
         printf("\n\t\t\t0.Exit");
-        printf("\n\n\n\t\t\tEnter choice => ");
+        printf("\n\n\n\t\t\tEnter your choice => ");
         scanf("%d",&choice);
         switch(choice)
         {
@@ -348,4 +412,9 @@ void init()
             fclose(fp);
         }
     }
+}
+int main(){
+    welcomeMessage();
+    menu();
+    return 0;
 }
