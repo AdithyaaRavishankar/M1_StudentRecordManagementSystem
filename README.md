@@ -10,6 +10,7 @@
 ![Quality](https://api.codiga.io/project/32314/score/svg)
 
 * Codacy - Static Code Analysis
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ff72c0f78db421abfc9e17174487ab5)](https://app.codacy.com/gh/AdithyaaRavishankar/M1_StudentRecordManagementSystem?utm_source=github.com&utm_medium=referral&utm_content=AdithyaaRavishankar/M1_StudentRecordManagementSystem&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1bdb7cab90d2476d8e4252c1d81849e8)](https://www.codacy.com/gh/AdithyaaRavishankar/M1_StudentRecordManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdithyaaRavishankar/M1_StudentRecordManagementSystem&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure 
