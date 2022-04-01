@@ -224,7 +224,7 @@ void searchStudent()
     }
     printf("\n\n\t\t\tEnter Student ID NO to search:");
     fflush(stdin);
-    scanf("%u",&studentId);
+    scanf("%d",&studentId);
     while (fread (&addStudentInfoInDataBase, sizeof(addStudentInfoInDataBase), 1, fp))
     {
         if(addStudentInfoInDataBase.student_id == studentId)
