@@ -235,7 +235,7 @@ void searchStudent()
     }
     if(found)
     {
-        printf("\n\t\t\tStudent id = %d\n",addStudentInfoInDataBase.student_id);
+        printf("\n\t\t\tStudent id = %u\n",addStudentInfoInDataBase.student_id);
         printf("\n\t\t\tStudent name = %s",addStudentInfoInDataBase.studentName);
         printf("\t\t\tFather Name = %s",addStudentInfoInDataBase.fatherName);
         printf("\n\t\t\tStudent Address = %s",addStudentInfoInDataBase.studentAddr);
@@ -274,7 +274,7 @@ void viewStudent()
     }
     while (fread (&addStudentInfoInDataBase, sizeof(addStudentInfoInDataBase), 1, fp))
     {
-        printf("\n\t\t\tStudent Count = %d\n\n",countStudent);
+        printf("\n\t\t\tStudent Count = %u\n\n",countStudent);
         printf("\t\t\tStudent id = %u\n",addStudentInfoInDataBase.student_id);
         printf("\t\t\tStudent Name = %s",addStudentInfoInDataBase.studentName);
         printf("\t\t\tFather Name = %s",addStudentInfoInDataBase.fatherName);
