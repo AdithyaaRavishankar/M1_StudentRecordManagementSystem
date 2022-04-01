@@ -8,7 +8,7 @@ Folder        | description
 `test`        |  Contains all test files.
 `unity`       | Contains the Test Framework.
 `MyProject.c` | Contains the code of the project(Student Record Management System)
-`Screenshots` | Screenshots of the applications are present here.
+
 
 
 # Student Record Management System
