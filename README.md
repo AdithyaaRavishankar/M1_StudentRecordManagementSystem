@@ -15,6 +15,7 @@
  
 |  Folder  |  Description  |
 |-----|-------|
+| [0_Certificates](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/tree/main/0_Certificates)| All the certificates are provided here|
 | [1_Requirements](https://github.com/AdithyaaRavishankar/M1_March_2022/tree/main/1_Requirements) | Documents detailing requirements   |
 | [2_Architecture](https://github.com/AdithyaaRavishankar/M1_March_2022/tree/main/2_Architecture) |   Documents specifying design details   |
 | [3_Implementation](https://github.com/AdithyaaRavishankar/M1_March_2022/tree/main/3_Implementation) | All code and documentation |
