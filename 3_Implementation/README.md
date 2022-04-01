@@ -3,8 +3,8 @@
 ## Folder Structure
 Folder        | description
 --------------| ----------------------------------------------
-`inc`         |  Contains all header files and functions.
-`src`         |  Contains all the source codes required for the code.
+`inc`         |  Contains all header files.
+`src`         |  Contains the file split up.
 `test`        |  Contains all test files.
 `unity`       | Contains the Test Framework.
 `MyProject.c` | Contains the code of the project(Student Record Management System)
