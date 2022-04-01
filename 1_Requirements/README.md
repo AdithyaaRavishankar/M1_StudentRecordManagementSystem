@@ -16,7 +16,8 @@
  
  ## Students Records Management System: 
  
-  ![Screenshot of srms ltts](https://user-images.githubusercontent.com/86227942/160672388-0728aa40-35b2-408e-96bc-684a864cc0f1.png)
+  ![Screenshot](https://user-images.githubusercontent.com/86227942/161250719-a41fa4a3-e1cf-4eba-bfca-55b5ccfbe002.png)
+
 
 
  ### Add Student Details:
@@ -24,30 +25,36 @@
  
    #### This has the following details:
         * Student ID
-        * Name
-        * Address
-        * Parent's Name
-        * class
-        * Phone Number
-   ![Screenshot for srms 2 ltts](https://user-images.githubusercontent.com/86227942/160678007-165c15a2-f720-45a9-a02f-58d197ef81f9.png)
+        * Father's Name
+        * Student Name
+        * Student address
+        * Date
+      
+   ![Screenshot](https://user-images.githubusercontent.com/86227942/161250887-17ef2ac3-3c80-4747-9824-12b53869e328.png)
+
 
  ### Search Student Details:
 #### The student Informations can be generated just by typing the student's ID.
        * This shows the record or the information of the student ID that was entered.
  
- ![Screenshot for srms 3 ltts](https://user-images.githubusercontent.com/86227942/160679970-49a8bba7-ac9d-41a1-af36-7b8f70141a98.png)
+ ![Screenshot](https://user-images.githubusercontent.com/86227942/161251259-914cf5f1-2bce-4b42-ad81-544b7c2e62bf.png)
+
 
  
- ### Modify Student Record:
+ ### View All Student's Record:
  #### Any Information of any student in the record can be edited.
       * Below image shows that updated "Address" of the student.
   
- ![Screenshot (6) srms 4 ltts](https://user-images.githubusercontent.com/86227942/160681473-41079a93-21c0-4565-a447-a97d6b4ac595.png)
+ ![Screenshot](https://user-images.githubusercontent.com/86227942/161251437-6eab2af4-912f-4fe7-a7ca-8a658c0eca78.png)
+
 
  ### Delete Student Record
  #### This option delets the information of the Student which is saved.
       * Unwanted student record is deleted using this option.
  
+ 
+ ![delete](https://user-images.githubusercontent.com/86227942/161251497-35bc8220-cea3-4366-b42e-b4f9a496b9fb.png)
+
 
  
  
