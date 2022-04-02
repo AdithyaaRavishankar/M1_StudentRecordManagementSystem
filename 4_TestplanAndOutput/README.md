@@ -16,5 +16,14 @@
 
 
 
-|Test ID| LLR | Description| Inputs(Units)|Expected O/P (Amount)| Actual O/P (Amount)|
+|Test ID| LLR | Description| Inputs |Expected Output| Actual Output|
 --- | --- | --- | --- | --- | --- |
+|TD01|LLR01_HLR01|  Add Student Record: ID,Father Name,Student Name,Address,Date of Joining| Student_ID | Recorded the details successfully | Recorded the details successfully |
+|TD02|LLR02_HLR02| Search Student Record: ID,Father Name,Student Name,Address,Date of Joining | Student_ID | Recorded the details successfully | Recorded the details successfully |
+|TD03|LLR03_HLR03| View all the Student Record: ID,Father Name,Student Name,Address,Date of Joining | Student_ID | Recorded the details successfully | Recorded the details successfully |
+|TD04|LLR04_HLR04|Delete the specified Student Record: ID,Father Name,Student Name,Address,Date of Joining| Student_ID | Recorded the details successfully | Recorded the details successfully |
+
+
+
+
+
