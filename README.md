@@ -16,6 +16,8 @@
 
 [![cppcheck-action](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/cppcheck.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/gitinspector.yml)
+
 ## Folder Structure 
  
 |  Folder  |  Description  |
