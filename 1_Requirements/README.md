@@ -42,8 +42,8 @@
 
  
  ### View All Student's Record
- #### Any Information of any student in the record can be edited.
-      * Below image shows that updated "Address" of the student.
+ #### All the records of the students are Displayed.
+      * Below image shows all the recorded details.
   
  ![Screenshot](https://user-images.githubusercontent.com/86227942/161251437-6eab2af4-912f-4fe7-a7ca-8a658c0eca78.png)
 
