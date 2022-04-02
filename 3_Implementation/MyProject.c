@@ -418,11 +418,13 @@ void init()
         }
     }
 }
+#if 0
 int main(){
     welcomeMessage();
     menu();
     return 0;
 }
+#endif
 void test_searchStudent(){
     if(1==searchStudent()){
         printf("student exist");
