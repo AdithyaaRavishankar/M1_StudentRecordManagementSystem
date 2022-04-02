@@ -14,7 +14,7 @@
  
  # Key Features of the project
  
- ## Students Records Management System: 
+ ## Students Records Management System
  
   ![Screenshot](https://user-images.githubusercontent.com/86227942/161250719-a41fa4a3-e1cf-4eba-bfca-55b5ccfbe002.png)
 
@@ -23,7 +23,7 @@
  ### Add Student Details:
   * It is used for adding the students information.
  
-   #### This has the following details:
+   #### This has the following details
         * Student ID
         * Father's Name
         * Student Name
@@ -33,7 +33,7 @@
    ![Screenshot](https://user-images.githubusercontent.com/86227942/161250887-17ef2ac3-3c80-4747-9824-12b53869e328.png)
 
 
- ### Search Student Details:
+ ### Search Student Details
 #### The student Informations can be generated just by typing the student's ID.
        * This shows the record or the information of the student ID that was entered.
  
@@ -41,7 +41,7 @@
 
 
  
- ### View All Student's Record:
+ ### View All Student's Record
  #### Any Information of any student in the record can be edited.
       * Below image shows that updated "Address" of the student.
   
