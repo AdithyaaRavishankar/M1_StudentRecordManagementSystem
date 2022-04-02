@@ -202,7 +202,7 @@ void addStudentInDataBase()
     fclose(fp);
 }
 // search student
-void searchStudent()
+int searchStudent()
 {
     int found = 0;
     int studentId =0;
@@ -251,7 +251,12 @@ void searchStudent()
     fflush(stdin);
     getchar();
     getchar();
+    if(found){
+        return 1;
+        
+    }
 }
+
 // view students function
 void viewStudent()
 {
@@ -417,4 +422,13 @@ int main(){
     welcomeMessage();
     menu();
     return 0;
+}
+void test_searchStudent(){
+    if(1==searchStudent()){
+        printf("student exist");
+    
+    }
+    else{
+        printf("studentnotexist");
+    }
 }
