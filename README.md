@@ -20,6 +20,8 @@
 
 [![Build CI - Windows](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/build-on-windows.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/build-on-windows.yml)
 
+[![Unit Testing - Unity](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/unit-test.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/unit-test.yml)
+
 ## Folder Structure 
  
 |  Folder  |  Description  |
