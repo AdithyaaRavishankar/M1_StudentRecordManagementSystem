@@ -16,4 +16,4 @@ jobs:
     - name: Build
 
 
-      run: make -C 3_Implementation/version2
+      run: make 3_Implementation/version2
