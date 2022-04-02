@@ -64,7 +64,8 @@
 * For the suggestion part it takes suggestion from user and stores it in a file.
 * The below image represents the above said informations.
 
-![usecase diagram-1](https://user-images.githubusercontent.com/86227942/160700230-90ae153b-9e5c-4428-a7f7-d7801b681160.png)
+![USECASE_DIAGRAM](https://user-images.githubusercontent.com/86227942/161400491-0f2bda0d-fccf-46a8-979f-526b4ede597b.png)
+
 
 
 
