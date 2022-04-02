@@ -18,6 +18,8 @@
 
 [![Contribution Check - Git Inspector](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/gitinspector.yml)
 
+[![Build CI - Windows](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/build-on-windows.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/build-on-windows.yml)
+
 ## Folder Structure 
  
 |  Folder  |  Description  |
