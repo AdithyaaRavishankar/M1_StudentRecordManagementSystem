@@ -138,7 +138,7 @@ void addStudentInDataBase()
     fclose(fp);
 }
 // search student
-void searchStudent()
+int searchStudent()
 {
     int found = 0;
     int studentId =0;
@@ -187,6 +187,10 @@ void searchStudent()
     fflush(stdin);
     getchar();
     getchar();
+    if(found){
+        return 1;
+        
+    }
 }
 // view students function
 void viewStudent()
@@ -347,5 +351,15 @@ void init()
             fwrite(&fileHeaderInfo,FILE_HEADER_SIZE, 1, fp);
             fclose(fp);
         }
+    }
+}
+void test_searchStudent(){
+    if(1==searchStudent()){
+        printf("student exist");
+        
+    }
+    else{
+        printf("studentnotexist");
+        
     }
 }
