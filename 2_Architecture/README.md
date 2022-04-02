@@ -26,12 +26,7 @@
  
   
   #### Component structure Diagram
-  
-  
-  ![COMPONENT DIAGRAM](https://user-images.githubusercontent.com/86227942/160710410-547908e9-c95f-42fb-a771-35d018891755.png)
-
-
-  
+ ![HIGH LEVEL DIAGRAM](https://user-images.githubusercontent.com/86227942/161400532-6e38eeaa-02cf-4871-8520-fbc705c12c53.png)
 
   
  
