@@ -11,7 +11,10 @@
 
 * Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7770faead2824824a97ae8b55ed848e6)](https://www.codacy.com/gh/AdithyaaRavishankar/M1_StudentRecordManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdithyaaRavishankar/M1_StudentRecordManagementSystem&amp;utm_campaign=Badge_Grade)
+
 [![Analysis](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/analysis.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/analysis.yml)
+
+[![cppcheck-action](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/cppcheck.yml)
 
 ## Folder Structure 
  
