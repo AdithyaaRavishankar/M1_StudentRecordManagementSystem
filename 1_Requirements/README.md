@@ -7,7 +7,7 @@
 * This project is helpful for managing student information by adding,updating,removing,viewing and even searching the details of the students.
 
 # Research
-## E-BOOK ON C PROGRAMMING
+## C PROGRAMMING
  * This is a simple project which simply provide easy contents on c programming to the user after taking input from the user.
  * This project is built using traditional file handling system rather than Data base system. here the user provides his/her desired choice and the code after taking input from the user it runs the respective user defined funtion which prints the contents of the respective topic.
  ![File-functions for ltts project](https://user-images.githubusercontent.com/86227942/160670091-bc3a2979-38a2-4008-b6fa-9df582dac766.jpg)
