@@ -24,6 +24,8 @@
 
 [![Valgrind](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/valgrind-check.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/valgrind-check.yml)
 
+[![Build CI - Linux](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/build-on-linux.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/build-on-linux.yml)
+
 ## Folder Structure 
  
 |  Folder  |  Description  |
