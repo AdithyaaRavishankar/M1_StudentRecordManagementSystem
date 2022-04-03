@@ -22,6 +22,8 @@
 
 [![Unit Testing - Unity](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/unit-test.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/unit-test.yml)
 
+[![Valgrind](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/valgrind-check.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/valgrind-check.yml)
+
 ## Folder Structure 
  
 |  Folder  |  Description  |
