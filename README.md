@@ -3,13 +3,14 @@
 ![srms img](https://user-images.githubusercontent.com/86227942/160691999-b2979afc-49af-4fe8-97e4-6d441dd2877b.jpg)
 
 # Badges
-* Codiga - Code Grade
+
+
 ![Quality](https://api.codiga.io/project/32314/status/svg)
 
-* Codiga - Static Analysis
+Codiga - Static Analysis
 ![Quality](https://api.codiga.io/project/32314/score/svg)
 
-* Codacy - Static Code Analysis
+Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7770faead2824824a97ae8b55ed848e6)](https://www.codacy.com/gh/AdithyaaRavishankar/M1_StudentRecordManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdithyaaRavishankar/M1_StudentRecordManagementSystem&amp;utm_campaign=Badge_Grade)
 
 [![Analysis](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/analysis.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M1_StudentRecordManagementSystem/actions/workflows/analysis.yml)
